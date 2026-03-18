@@ -28,3 +28,10 @@ TD Module 01: Demo project to build and test a sample quiz using python notebook
 
 - Creating and adding the **.gitignore** file: configuration file used in Git to instruct the version control system on which files or directories should be ignored when changes are staged or committed.
 - add new contained to .gitignore file
+
+* ***********************
+2026/03/18 - 20hr15:
+* ***********************
+
+- I created a new branch "branch_dev"
+
