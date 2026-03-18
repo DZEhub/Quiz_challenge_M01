@@ -21,3 +21,10 @@ TD Module 01: Demo project to build and test a sample quiz using python notebook
 
 - modification of *.ipynb file to remove unclear instructions
 - clean up of *.ipynb file
+
+* ***********************
+2026/03/18 - 19hr55:
+* ***********************
+
+- Creating and adding the **.gitignore** file: configuration file used in Git to instruct the version control system on which files or directories should be ignored when changes are staged or committed.
+- add new contained to .gitignore file
