@@ -14,3 +14,10 @@ TD Module 01: Demo project to build and test a sample quiz using python notebook
 
 - modification of *.ipynb file
 - clean up of *.ipynb file
+
+* ***********************
+2026/03/18 - 17hr55:
+* ***********************
+
+- modification of *.ipynb file to remove unclear instructions
+- clean up of *.ipynb file
